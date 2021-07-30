@@ -1,0 +1,6 @@
+Дарова жт первый файл 
+function plus(a , b){
+	let c = a + b;
+	console.log(c);
+}
+plus(32,91);
